@@ -15,7 +15,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
 
-    char NomImagen[] = "c://gray.jpg";
+    char NomImagen[] = "c://edx//gray.jpg";
 
     Mat image, imageResult;
     image = imread(NomImagen, 1);

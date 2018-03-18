@@ -8,7 +8,7 @@ using namespace cv;
 
 int main(int argc, char *argv[])
 {
-    char NomImagen[] = "c://color.jpg";
+    char NomImagen[] = "c://edx//color.jpg";
 
     Mat image, imHSV;
 

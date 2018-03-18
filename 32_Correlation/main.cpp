@@ -10,8 +10,8 @@ int main()
 {
 	int i;
 	//Nombre de la imagen que se va a cargar
-	char NombreImagen[] = "c://corr_norm.tif";
-	char NombreModelo[] = "c://modelo.tif";
+	char NombreImagen[] = "c://edx//corr_norm.tif";
+	char NombreModelo[] = "c://edx//modelo.tif";
 
 	//Cargamos las imagenes y se comprueba que lo ha hecho correctamente
 	Mat src = imread(NombreImagen);

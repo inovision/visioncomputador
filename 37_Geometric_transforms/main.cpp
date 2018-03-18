@@ -9,7 +9,7 @@ using namespace cv;
 int main()
 {
 	//Nombre de la imagen que se va a cargar
-    char NombreImagen[] = "c://IVVI.jpg";
+    char NombreImagen[] = "c://edx//IVVI.jpg";
 	Mat src, dst;
 
 	//Cargamos la imagen y se comprueba que lo ha hecho correctamente

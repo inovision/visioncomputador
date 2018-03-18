@@ -9,8 +9,8 @@ using namespace cv;
 int main()
 {
 	//Nombre de la imagen que se va a cargar
-	char NombreImagen[] = "c://IMG.jpg";
-    char NombreModelo[] = "c://MJ.jpg";
+	char NombreImagen[] = "c://edx//IMG.jpg";
+    char NombreModelo[] = "c://edx//MJ.jpg";
 	
 	//Cargamos las imagenes y se comprueba que lo ha hecho correctamente
 	Mat src = imread(NombreImagen);

@@ -9,9 +9,9 @@ using namespace cv;
 int main()
 {
 	//Nombre de la imagen que se va a cargar
-    //char NombreImagen[] = "c://ivvi_512x512_gray_rg.jpg";
-    char NombreImagen[] = "c://ivvi_512x512_gray_ri.jpg";
-	char NombreImagenIvvi[] = "c://ivvi_512x512_gray.jpg";
+    //char NombreImagen[] = "c://edx//ivvi_512x512_gray_rg.jpg";
+    char NombreImagen[] = "c://edx//ivvi_512x512_gray_ri.jpg";
+	char NombreImagenIvvi[] = "c://edx//ivvi_512x512_gray.jpg";
 	Mat src, imBlr, imGus, imMed, imBil, ivvi;
 
 	//Cargamos la imagen y se comprueba que lo ha hecho correctamente

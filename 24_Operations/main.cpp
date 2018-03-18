@@ -9,8 +9,8 @@ using namespace cv;
 int main()
 {
 	//Nombre de la imagen que se va a cargar
-	char NombreImagen1[] = "c://LSI.jpg";
-	char NombreImagen2[] = "c://UC3M.jpg";
+	char NombreImagen1[] = "c://edx//LSI.jpg";
+	char NombreImagen2[] = "c://edx//UC3M.jpg";
 	Mat img1, img2;
 
 	//Cargamos la imagen y se comprueba que lo ha hecho correctamente

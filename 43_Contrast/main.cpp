@@ -9,7 +9,7 @@ using namespace cv;
 int main()
 {
 	//Nombre de la imagen que se va a cargar
-	char NombreImagen[] = "c://ivvi_low_contrast.jpg";
+	char NombreImagen[] = "c://edx//ivvi_low_contrast.jpg";
 	Mat original_img, equaliz_img;
 
 	//Cargamos la imagen y se comprueba que lo ha hecho correctamente
